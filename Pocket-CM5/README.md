@@ -85,7 +85,7 @@ The main PCB and Flex-PCB are easily reproducible at JLCPCB. You can open the pr
 - October Update: https://amarullz.com/2025/10/22/pibrick-development-update-october/
 
 # Links
-- 🛟 piBrick Discord: https://discord.gg/57g8bzGu
+- 🛟 piBrick Discord: https://discord.gg/e9qUdJ4aVr
 - 🤖 My Github: https://github.com/amarullz/
 - 🤖 piBrick Github: https://github.com/amarullz/piBrick
 - 🔬 OSHWLab: https://oshwlab.com/amarullz/pibrick-pocketcm5
