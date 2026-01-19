@@ -92,6 +92,9 @@ The main PCB and Flex-PCB are easily reproducible at JLCPCB. You can open the pr
 - 📺 Youtube: https://www.youtube.com/@amarullz
 - 💝 Donation: https://paypal.me/amarullz
 
+# Resources
+- Keyboard Firmware: https://github.com/amarullz/pibrick_pocketcm5_keyboard
+
 # Sponsored By
 Thanks **OSHWLAB** Starts to make this project possible, **EasyEDA Pro** is rocks, and **JLCPCB** integration with EasyEda is awesome.
 
