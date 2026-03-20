@@ -1,10 +1,11 @@
 # piBrick Pocket-CM5
 
-**piBrick Pocket-CM5** is a smartphone-sized handheld PC powered by the **Raspberry Pi CM5**, featuring a 3.91" AMOLED touch display and a QWERTY keyboard+trackpad from **BBQ20**.
+**piBrick Pocket-CM5** is a smartphone-sized handheld PC powered by the **Raspberry Pi CM5**, featuring a 3.92" AMOLED touch display and a QWERTY keyboard+trackpad from **BBQ20**.
 
 This pocket computer is compact enough for mobile use, yet powerful and versatile for everyday computing. With its wide range of ports, it can be connected to a desktop setup and used as a full desktop computer.
 
-![piBrick Pocket-CM5 Photo](docs/images/cover.jpeg)
+![piBrick Pocket-CM5 Photo](docs/images/showcase.png)
+[![certification-mark-ID000014-wide.png](docs/images/oshw.png)](https://certification.oshwa.org/id000014.html)
 
 **piBrick Pocket-CM5** is an Open Source Hardware.
 
@@ -16,12 +17,12 @@ There are many possible use cases for this device. It’s a building block — y
 
 This device was designed for manufacturing at JLCPCB, including component selection, design rules, and overall manufacturability. Anyone can easily order and assemble it through JLCPCB.
 
-![piBrick Pocket-CM5 3D Render](docs/images/piBrick-3d-showcase.png)
+![piBrick Pocket-CM5 Photo](docs/images/pibrick--map.png)
 
 # Specifications:
 - CORE: **Raspberry Pi CM5**
 - Dimensions: **80 × 145 × 19.6 mm**
-- Display: **3.91" AMOLED touchscreen — MIPI/DSI, 1080×1240 @ 60 Hz, 16M colors**
+- Display: **3.92" AMOLED Multitouch — MIPI/DSI, 1080×1240 @ 90 Hz, 16M colors, 450nits**
 - Display Output: **Full-size HDMI + micro-HDMI**
 - **USB:**
   - 1× USB 3 Type-A
@@ -51,21 +52,6 @@ This device was designed for manufacturing at JLCPCB, including component select
 - User RGB LED, and Keyboard Layout RGB Indicator
 - Body: **Open Source 3D printable frame & casing**
 
-# Reproducable
-The main PCB and Flex-PCB are easily reproducible at JLCPCB. You can open the project in EasyEDA Pro and simply click Order PCB. Everything is already configured for JLCPCB — you only need to adjust anything you feel is necessary.
-
-**Here are some optional tips for ordering:**
-
-- Make sure you use the default JLCPCB stack-up: JLC04161H-7628 (or just leave Specify Stackup set to No).
-- The board already includes a 5×5 mm rectangular silkscreen area for the JLCPCB 2D barcode. Choose 2D Barcode (Serial Number), select 5×5 mm size, and Specify Position.
-- All components are compatible with Economic Assembly. Extended parts cost slightly more but are still cheaper than Standard.
-- For better cost efficiency, it’s recommended to order 10 pcs. Group-ordering for multiple people is often the most affordable approach.
-
-# Project on EasyEda Pro
-- For the best PCB and schematic appearance, please install the **Roboto Condensed** and **Roboto Condensed Bold** fonts first.
-- You may modify and reproduce the design as you like, but please keep the license intact.
-- Always follow the design rules and run DRC checks before manufacturing.
-
 
 # Additional Peripherals
 - **Mandatory**
@@ -81,19 +67,22 @@ The main PCB and Flex-PCB are easily reproducible at JLCPCB. You can open the pr
     https://www.waveshare.com/rpi-zero-v1.3-camera.htm
   - NVMe SSD (size **2230** or **2242**)
 
-# Updates
-- October Update: https://amarullz.com/2025/10/22/pibrick-development-update-october/
-
 # Links
 - 🛟 piBrick Discord: https://discord.gg/e9qUdJ4aVr
 - 🤖 My Github: https://github.com/amarullz/
 - 🤖 piBrick Github: https://github.com/amarullz/piBrick
-- 🔬 OSHWLab: https://oshwlab.com/amarullz/pibrick-pocketcm5
+- 🔬 OSHWLab (PCB and Schematic): https://oshwlab.com/amarullz/pibrick-pocketcm5
 - 📺 Youtube: https://www.youtube.com/@amarullz
 - 💝 Donation: https://paypal.me/amarullz
 
 # Resources
 - ⌨️ Keyboard Firmware: https://github.com/amarullz/pibrick_pocketcm5_keyboard
+
+# Demo & Videos
+- Transparent Case Demo: https://www.youtube.com/watch?v=TcVaFZuxn5k
+- Generic piBrick Usage Demo: https://www.youtube.com/watch?v=Aw_k3M_BDMw&t=139s
+- No-Script Assembly: https://www.youtube.com/watch?v=2-Dx861esv8&t=6s
+- Front and Display Assembly Guide: https://www.youtube.com/watch?v=K_VT_-nSvu0&t=200s
 
 # Sponsored By
 Thanks **OSHWLAB** Starts to make this project possible, **EasyEDA Pro** is rocks, and **JLCPCB** integration with EasyEda is awesome.
