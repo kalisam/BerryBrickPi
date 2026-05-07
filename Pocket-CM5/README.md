@@ -80,7 +80,7 @@ This device was designed for manufacturing at JLCPCB, including component select
 - **Firmwares**
   - ⌨️ Keyboard Firmware: https://github.com/amarullz/pibrick_pocketcm5_keyboard
 - **3D**
-  - 📏 3D Models for BambuLab at Makerworld (by Fane): https://makerworld.com/en/models/2760346-pibrick-pocket-cm5?from=search#profileId-3064284
+  - 📏 3D Models for BambuLab at Makerworld (by Fane): https://makerworld.com/en/models/2760346-pibrick-pocket-cm5
   - 📏 3D Models for JLC3DP: https://jlc3dp.com/3d-models/detail/MX13932-piBrick-PocketCM5-Updated-Case?spm=Jlc3dp.3dmodels
 
 # Demo & Videos
